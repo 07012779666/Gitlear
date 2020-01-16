@@ -10,11 +10,11 @@ public class Gut1 {
 			System.out.println("nihao");
 		}
 
-		int a, b, c;
-		a = 1;
-		b = 2;
-		c = 3;
-		System.out.println(a+b+c);
+		int c, d, e;
+		c = 1;
+		d = 2;
+		e = 3;
+		System.out.println(c+d+e);
 
 	}
 
